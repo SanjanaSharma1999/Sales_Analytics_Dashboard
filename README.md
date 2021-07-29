@@ -1,0 +1,1 @@
+# Sales_Analytics_Dashboard was created using Power-BI in order to have an interactive sales analytics representations ( giving the audience the freedom to even visualize the analysis based on their targeted interests ). 
